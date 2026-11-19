@@ -1,18 +1,25 @@
-# My First GitHub Project
+# Hello, I'm a Software Developer!
 
-## About
-This is my first project created using VS Code and GitHub.
+Welcome to my GitHub profile.
 
-## Features
-- Simple homepage
-- HTML structure
-- Welcome message
-
-## Technologies
+## My Skills
 - HTML
+- CSS
+- JavaScript
 - Git
 - GitHub
 - Visual Studio Code
 
-## Author
-Your Name
+## My Interests
+- Artificial Intelligence
+- Web Development
+- Software Development
+- Automation
+
+## My Projects
+- My First GitHub Project
+- AI Organization Manager
+
+## My Goal
+To become a professional software developer
+and AI developer.
